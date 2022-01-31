@@ -87,7 +87,8 @@ Some of the problems below are best addressed using a supervised learning algori
 8) Examine the statistics of two football teams, and predicting which team will win tomorrow's match (given historical data of teams' wins/losses to learn from). :=  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This can be addressed using supervised learning, in which we learn from historical records to make win/loss predictions.  
 
-9) Given data on how 1000 medical patients respond to an experimental drug (such as effectiveness of the treatment, side effects, etc.), discover whether there are different categories or "types" of patients in terms of how they respond to the drug, and if so what these categories are. 
+9) Given data on how 1000 medical patients respond to an experimental drug (such as effectiveness of the treatment, side effects, etc.), discover whether there are different categories or "types" of patients in terms of how they respond to the drug, and if so what these categories are. :=  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This can addressed using a clustering (unsupervised learning) algorithm, to cluster different categories or "types" of patients in terms of how they respond to the drug. 
 
 Question 6
 ----------
