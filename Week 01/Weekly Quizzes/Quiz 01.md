@@ -90,10 +90,8 @@ Some of the problems below are best addressed using a supervised learning algori
 9) Given data on how 1000 medical patients respond to an experimental drug (such as effectiveness of the treatment, side effects, etc.), discover whether there are different categories or "types" of patients in terms of how they respond to the drug, and if so what these categories are. :=  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This can addressed using a clustering (unsupervised learning) algorithm, to cluster different categories or "types" of patients in terms of how they respond to the drug. 
 
-10) Given historical data of children's ages and heights, predict children's height as a function of their age. 
-11)  :=  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This can addressed using a clustering (unsupervised learning) algorithm, to cluster and predict children's height as a function of their age. 
+10) Given historical data of children's ages and heights, predict children's height as a function of their age.   :=  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This can addressed using a clustering (unsupervised learning) algorithm, to cluster and predict children's height as a function of their age. 
 
-11) 
 
 Question 6
 ----------
