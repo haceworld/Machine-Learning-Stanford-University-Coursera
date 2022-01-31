@@ -45,6 +45,20 @@ Regression is appropriate when we are trying to predict a continuous-valued outp
 Question 4
 ----------
 
+Suppose you are working on stock market prediction. You would like to predict whether or not a certain company will declare bankruptcy within the next 7 days (by training on data of similar companies that had previously been at risk of bankruptcy). Would you treat this as a classification or a regression problem?
+
+### Answer
+
+Classification
+
+### Explanation
+
+Classification is appropriate when we are trying to predict whether or not a certain company will declare bankruptcy within the next 7 days'- meaning it discrete-valued outputs (which we might designate as bankruptcy or not)
+
+
+Question 5
+----------
+
 Some of the problems below are best addressed using a supervised learning algorithm, and the others with an unsupervised learning algorithm. Which of the following would you apply supervised learning to? (Select all that apply.) In each case, assume some appropriate dataset is available for your algorithm to learn from.
 
 ### Explanation
@@ -73,7 +87,7 @@ Some of the problems below are best addressed using a supervised learning algori
 8) Examine the statistics of two football teams, and predicting which team will win tomorrow's match (given historical data of teams' wins/losses to learn from). :=  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This can be addressed using supervised learning, in which we learn from historical records to make win/loss predictions.  
 
-Question 5
+Question 6
 ----------
 
 Which of these is a reasonable definition of machine learning?
