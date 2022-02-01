@@ -48,3 +48,30 @@ Let A and B be 3x3 (square) matrices. Which of the following must necessarily ho
 
 ### Answer  
 ![alt text](https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera/blob/master/Week%2001/Weekly%20Quizzes/Quiz0308.png "Mask")  
+
+
+Question 06
+----------- 
+![1](https://user-images.githubusercontent.com/61402731/151956430-5bc00b36-de68-4bdf-87c4-7a3599a2b3e8.png)
+![2](https://user-images.githubusercontent.com/61402731/151956441-1985df94-f395-4026-913d-9453b9cf946d.png)
+![3](https://user-images.githubusercontent.com/61402731/151956442-da27e6b9-0d60-4a7b-b8fb-1ac3e96a64c4.png)
+![4](https://user-images.githubusercontent.com/61402731/151956448-7d949d9d-3baf-4e7b-b05a-c3aef76a393f.png)
+![5](https://user-images.githubusercontent.com/61402731/151956450-3cd2f16f-c4cb-4a11-b435-ce9068fbb19c.png)
+
+
+
+Question 07
+----------- 
+
+
+
+Question 08
+----------- 
+
+
+Question 09
+----------- 
+
+
+Question 10
+----------- 
