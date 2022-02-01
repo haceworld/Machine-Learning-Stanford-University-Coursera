@@ -73,6 +73,7 @@ Question 09
 
 Answer 09
 ----------- 
+-4
 
 
 Question & Answer 10
